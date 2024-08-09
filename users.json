@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "email": "admin@example.com",
+            "password": "admin",
+            "last_login": "2024-05-24T12:00:00Z",
+            "admin": true
+        },
+        {
+            "username": "john_doe",
+            "email": "john@example.com",
+            "password": "1234",
+            "last_login": "2024-05-24T12:00:00Z",
+            "admin": false
+        },
+        {
+            "username": "jane_smith",
+            "email": "jane@example.com",
+            "password": "1234",
+            "last_login": "2024-05-23T09:30:00Z",
+            "admin": false
+        },
+        {
+            "username": "fati",
+            "email": "fatito@gmail.com",
+            "password": "fati",
+            "last_login": "2024-06-11 16:36:22",
+            "admin": false
+        },
+        {
+            "username": "teacher",
+            "email": "tichi@gmail.com",
+            "password": "tichi",
+            "last_login": "2024-06-11 17:29:00",
+            "admin": false
+        },
+        {
+            "username": "what",
+            "email": "what@gmali.com",
+            "password": "what",
+            "last_login": "2024-06-11 17:32:36",
+            "admin": false
+        },
+        {
+            "username": "loli",
+            "email": "loli@loli.com",
+            "password": "loli",
+            "last_login": "2024-06-11 17:35:16",
+            "admin": false
+        },
+        {
+            "username": "muli",
+            "email": "muli@muli.com",
+            "password": "muli",
+            "last_login": "2024-06-11 18:16:28",
+            "admin": false
+        }
+    ]
+}
